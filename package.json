@@ -1,0 +1,13 @@
+{
+  "name": "cms",
+  "version": "1.0.0",
+  "dependencies": {
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^4.0.1",
+    "pump": "^3.0.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-ruby-sass": "^3.0.0"
+  }
+}
